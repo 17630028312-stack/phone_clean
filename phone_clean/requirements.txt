@@ -1,0 +1,8 @@
+# 划一下App依赖
+kivy>=2.2.0
+kivymd>=1.1.1
+Pillow>=10.0.0
+
+# Android打包依赖（打包时使用）
+# buildozer>=1.5.0
+# cython>=0.29.0
